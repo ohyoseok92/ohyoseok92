@@ -15,3 +15,8 @@ AI·백엔드 개발을 공부하며 LLM Agent와 RAG를 서비스 흐름에 연
 온전 QR·RAG 인용 캐시·NEXMILL은 자체 제작 시연이며 실제 기관 연동이나 고객 납품 실적이 아닙니다. 팀 프로젝트는 제가 맡은 범위와 팀 성과를 구분해 설명합니다. 각 저장소의 README에서 구현 범위, 검증 방법과 한계를 확인할 수 있습니다.
 
 주로 Python, FastAPI, React, TypeScript와 Cloudflare Workers를 사용합니다. [LinkedIn](https://www.linkedin.com/in/hyoseok-oh-791530263/)에서도 프로젝트와 업무 이력을 볼 수 있습니다.
+
+## 작은 Python 데이터 오류 수리
+
+재현 가능한 Python/API 데이터 오류 한 건을 6시간 범위에서 검토합니다. [자체 제작 수리 예제](https://github.com/ohyoseok92/data-integrity-repair-demo)에서 수정 방식과 테스트를 확인할 수 있습니다. 국내 문의는 [크몽](https://kmong.com/gig/832484), 해외 문의는 [Payhip](https://payhip.com/b/yUF4Q)으로 받습니다. 비식별 재현 자료를 보내주시면 결제 전에 범위를 확인합니다.
+
